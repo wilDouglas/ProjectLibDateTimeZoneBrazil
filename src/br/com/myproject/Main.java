@@ -28,7 +28,7 @@ public class Main {
        
         System.out.println("Dias que se passaram: " + periodo.getDays());
         System.out.println(new Data("2015-7-12").dataFormatoBrasileiro());       
-        System.out.println(new Data("2015-5-1").dataFormatoBrasileiro());  
+        System.out.println(new Data("12/07/2015").dataFormatoDataBase());  
         
 
     }
